@@ -1,4 +1,4 @@
-SET search_path TO doc;
+--SET search_path TO doc;
 --let's create & populate some table first
 CREATE TABLE empsalary(
 	depname		varchar(25),
